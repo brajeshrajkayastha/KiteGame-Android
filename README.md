@@ -9,7 +9,7 @@ Clone or Download the file into your computer. Open the project through Android 
 
 ### Prerequisites
 
-* Android Studio is required. You can download it from [offical site](https://developer.android.com/studio).
+* Android Studio is required. You can download it from [official site](https://developer.android.com/studio).
 * For editing 3D .obj model, install any 3D modelling softwares. e.g. Blender
 
 ## Authors
